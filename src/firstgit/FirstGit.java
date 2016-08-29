@@ -16,11 +16,14 @@ public class FirstGit {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Hello world");
+        System.out.println("Hello Java Class");//blue is change
                 
                 
                 
              
+    }
+    public void method(){// green is new
+        
     }
     
 }
